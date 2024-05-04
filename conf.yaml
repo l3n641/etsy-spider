@@ -1,0 +1,3 @@
+webServiceAddr: :8080
+dbName: product.db
+imageDir: ./static/image
